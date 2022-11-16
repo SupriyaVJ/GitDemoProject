@@ -7,6 +7,7 @@ public class LoginPage {
 		System.out.println("This is Login Page for amazon");
 		System.out.println("Enter user name");
 		System.out.println("Enter pwd");
+		System.out.println("opening homePage");
 	}
 
 }
