@@ -8,6 +8,7 @@ public class LoginPage {
 		System.out.println("Enter user name");
 		System.out.println("Enter pwd");
 		System.out.println("opening homePage");
+		System.out.println("opening Clothing");
 	}
 
 }
